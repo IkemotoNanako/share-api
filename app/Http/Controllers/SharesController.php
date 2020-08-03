@@ -88,4 +88,5 @@ class SharesController extends Controller
         $api->delete();
         return response()->json();
     }
+    
 }
